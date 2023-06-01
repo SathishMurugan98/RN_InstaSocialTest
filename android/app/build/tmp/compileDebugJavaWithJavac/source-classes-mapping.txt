@@ -1,0 +1,14 @@
+com/instasocialtest/MainActivity.java
+ com.instasocialtest.MainActivity
+com/instasocialtest/ReactNativeFlipper.java
+ com.instasocialtest.ReactNativeFlipper
+ com.instasocialtest.ReactNativeFlipper$1
+ com.instasocialtest.ReactNativeFlipper$2
+ com.instasocialtest.ReactNativeFlipper$2$1
+com/instasocialtest/BuildConfig.java
+ com.instasocialtest.BuildConfig
+com/instasocialtest/MainApplication.java
+ com.instasocialtest.MainApplication
+ com.instasocialtest.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

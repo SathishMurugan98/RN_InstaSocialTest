@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">384650557398-2fh1hv1e4io5sbmmh1ja47rauijci64g.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">384650557398</string>
+    <string name="google_api_key" translatable="false">AIzaSyBgKqCZ3pCvB_EH2DOwRmHi8OkiZcogz-Y</string>
+    <string name="google_app_id" translatable="false">1:384650557398:android:36cf33206bbf7f55e25677</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBgKqCZ3pCvB_EH2DOwRmHi8OkiZcogz-Y</string>
+    <string name="google_storage_bucket" translatable="false">instasocialtest-b4fe9.appspot.com</string>
+    <string name="project_id" translatable="false">instasocialtest-b4fe9</string>
+</resources>
